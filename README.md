@@ -1,5 +1,7 @@
 # Hello, I'm Aditya Kumar.
 <a href="https://www.linkedin.com/in/aditya-kumar-4962982a6/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. And currently I am in Cybersecurity feild the Domain of Offensive Security. Where I focused on proactively identifying and exploiting vulnerabilities to strengthen systems through ethical hacking and penetration testing. Skilled in offensive security, including penetration testing, red teaming, and vulnerability assessment to identify and exploit security flaws.
 
 ## Objective
